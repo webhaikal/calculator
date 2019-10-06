@@ -122,23 +122,23 @@
     <comment>{@Appx_ShortDisplayName@}{StringCategory="Feature Title"} This is the title of the official application when published through Windows Store.</comment>
   </data>
   <data name="DevAppName" xml:space="preserve">
-    <value>Kalkulator [Pembangun]</value>
+    <value>Calculator [Pembangun]</value>
     <comment>{@Appx_ShortDisplayName@}{StringCategory="Feature Title"} This is the name of the application when built by a user via GitHub. We use a different name to make it easier for users to distinguish the apps when both this version and the Store version are installed on the same device.</comment>
   </data>
   <data name="AppStoreName" xml:space="preserve">
-    <value>Kalkulator Windows</value>
+    <value>Windows Calculator</value>
     <comment>{@Appx_DisplayName@}{StringCategory="Feature Title"} Name that shows up in the app store. It contains "Windows" to distinguish it from 3rd party calculator apps.</comment>
   </data>
   <data name="DevAppStoreName" xml:space="preserve">
-    <value>Kalkulator Windows [Pembangun]</value>
+    <value>Windows Calculator [Pembangun]</value>
     <comment>{@Appx_DisplayName@}{StringCategory="Feature Title"} Name that shows up in the app store. It contains "Windows" to distinguish it from 3rd party calculator apps. This is the the version of the name used when the app is built by a user via GitHub.</comment>
   </data>
   <data name="AppDescription" xml:space="preserve">
-    <value>Kalkulator</value>
+    <value>Calculator</value>
     <comment>{@Appx_Description@} This description is used for the official application when published through Windows Store.</comment>
   </data>
   <data name="DevAppDescription" xml:space="preserve">
-    <value>Kalkulator [Pembangun]</value>
+    <value>Calculator [Pembangun]</value>
     <comment>{@Appx_Description@} This is the description of the application when built by a user via GitHub. We use a different description to make it easier for users to distinguish the apps when both this version and the Store version are installed on the same device.</comment>
   </data>
   <data name="copyMenuItem" xml:space="preserve">
@@ -150,7 +150,7 @@
     <comment>Paste context menu string</comment>
   </data>
   <data name="SupplementaryResultsHeader.Text" xml:space="preserve">
-    <value>Kira-kira sama dengan</value>
+    <value>Bersamaan dengan</value>
     <comment>The text that shows at the bottom of the converter to head the supplementary results. Indicates that the main result is approximately equal to the supplementary results.</comment>
   </data>
   <data name="BitAutomationName" xml:space="preserve">
@@ -514,7 +514,7 @@
     <comment>The text that shows in the dropdown navigation control in snapped mode when scientific calculator mode is selected.</comment>
   </data>
   <data name="ProgrammerModeText" xml:space="preserve">
-    <value>Pengatur cara</value>
+    <value>Pengaturcara</value>
     <comment>The text that shows in the dropdown navigation control in snapped mode when programmer calculator mode is selected.</comment>
   </data>
   <data name="ConverterModeText" xml:space="preserve">
@@ -546,7 +546,7 @@
     <comment>{Locked="%1"}. Screen reader prompt for the Calculator results text block. %1 = Localized display value, e.g. "50".</comment>
   </data>
   <data name="Format_CalculatorResults_Decimal" xml:space="preserve">
-    <value>Paparan ialah %1 titik</value>
+    <value>Paparan ialah %1 petpuluhan</value>
     <comment>{Locked="%1"}. Automation label for the calculator display in the specific case where the user has just pressed the decimal separator button. For example, the user wants to input "7.5".  When they have input "7." they will hear "Display is 7 point". "point" should be localized to the locale's appropriate decimal separator.</comment>
   </data>
   <data name="Format_CalculatorExpression" xml:space="preserve">
@@ -602,7 +602,7 @@
     <comment>Screen reader prompt for the Calculator History button, when the flyout is open.</comment>
   </data>
   <data name="memButton.[using:Windows.UI.Xaml.Automation]AutomationProperties.Name" xml:space="preserve">
-    <value>Stor Memori</value>
+    <value>Storan Memori</value>
     <comment>Screen reader prompt for the Calculator Memory button</comment>
   </data>
   <data name="memButton.[using:Windows.UI.Xaml.Controls]ToolTipService.ToolTip" xml:space="preserve">
@@ -2291,11 +2291,11 @@
     <comment>The text that shows in the dropdown navigation control to open About panel</comment>
   </data>
   <data name="FeedbackButton.Content" xml:space="preserve">
-    <value>Hantarkan maklum balas</value>
+    <value>Hantar maklum balas</value>
     <comment>The text that shows in the dropdown navigation control to give the user the option to send feedback about the app and it launches Windows Feedback app</comment>
   </data>
   <data name="HistoryEmpty.Text" xml:space="preserve">
-    <value>Belum ada sejarah lagi</value>
+    <value>Tiada sejarah lagi</value>
     <comment>The text that shows as the header for the history list</comment>
   </data>
   <data name="MemoryPaneEmpty.Text" xml:space="preserve">
